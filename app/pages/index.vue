@@ -2,7 +2,6 @@
   <div class="p-10 space-y-6 max-w-3xl mx-auto">
     <h1 class="text-3xl font-bold text-center">AI Financial Assistant</h1>
 
-    <!-- AI Input Section -->
     <div class="space-y-2">
       <input
         v-model="question"
